@@ -30,8 +30,8 @@ This portfolio website serves as a professional and polished online presence, al
 
 #OUTPUT:
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/aceed095-cb62-4c9c-99d6-7d42802960fe" />
+<img width="1920" height="963" alt="Image" src="https://github.com/user-attachments/assets/4ff99d69-eb0b-4e15-9f09-bb57fe4a153c" />
 
-<img width="1920" height="955" alt="Image" src="https://github.com/user-attachments/assets/2903eceb-2771-49c5-bc49-22dad77b29f3" />
+<img width="1920" height="955" alt="Image" src="https://github.com/user-attachments/assets/1a0fa1b0-b9f7-45a6-8421-b58521abea80" />
 
-<img width="1920" height="933" alt="Image" src="https://github.com/user-attachments/assets/df8a1418-9add-44c7-bdb2-f7ae903c513e" />
+<img width="1920" height="933" alt="Image" src="https://github.com/user-attachments/assets/07c7ef2c-9f3c-4f7e-bc47-726cf21bdc42" />

@@ -29,3 +29,9 @@ Key aspects of the portfolio include:
 This portfolio website serves as a professional and polished online presence, allowing developers to present their work and skills succinctly while demonstrating proficiency in front-end web development.
 
 #OUTPUT:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/aceed095-cb62-4c9c-99d6-7d42802960fe" />
+
+<img width="1920" height="955" alt="Image" src="https://github.com/user-attachments/assets/2903eceb-2771-49c5-bc49-22dad77b29f3" />
+
+<img width="1920" height="933" alt="Image" src="https://github.com/user-attachments/assets/df8a1418-9add-44c7-bdb2-f7ae903c513e" />
